@@ -1,3 +1,7 @@
 body {
 	background: whitesmoke;
 }
+
+html.hide {
+	display: none;
+}
